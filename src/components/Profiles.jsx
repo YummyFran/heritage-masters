@@ -5,17 +5,17 @@ const artistData = {
     muzones: {
         name: "Ramon Muzones",
         title: "National Artist for Literature (2018)",
-        imageURL: "/assets/muzones.jpg"
+        imageURL: "./assets/muzones.jpg"
     },
     sulaiman: {
         name: "Samaon Sulaiman",
         title: "GAMABA Awardee for Traditional Music (1993)",
-        imageURL: "/assets/sulaiman.png"
+        imageURL: "./assets/sulaiman.png"
     },
     intaray: {
         name: "Masino Intaray",
         title: "GAMABA Awardee for Traditional Music, Epic Chanting, and Storytelling (1993)",
-        imageURL: "/assets/intaray.jpg"
+        imageURL: "./assets/intaray.jpg"
     },
     gamaba: {
         name: "GAMABA awardees",

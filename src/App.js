@@ -6,7 +6,7 @@ import NotFound from "./pages/NotFound";
 function App() {
   
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="*" element={<NotFound />} />
         <Route path="/" element={<Home/>} />
@@ -19,7 +19,7 @@ function App() {
           </Route>
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

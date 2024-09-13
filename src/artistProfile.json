@@ -9,7 +9,7 @@
           "Elevated Hiligaynon literature by addressing societal issues and exploring Filipino identity."
         ],
         "legacy": "Ramon Muzones is celebrated for his significant contributions to Philippine literature, particularly in promoting regional voices. His work ensured the survival and appreciation of the Hiligaynon language and literary tradition.",
-        "url": "/assets/muzones.jpg"
+        "url": "./assets/muzones.jpg"
     },
     "SamaonSulaiman":  {
         "name": "Samaon Sulaiman",
@@ -20,7 +20,7 @@
           "Taught and mentored younger musicians, passing down the knowledge and techniques of the kutyapi."
         ],
         "legacy": "Sulaiman's influence helped preserve the rich musical traditions of the Maguindanaon people. His dedication ensured that future generations continue to practice and appreciate the kutyapi and Maguindanaoan music.",
-        "url": "/assets/sulaiman.png"
+        "url": "./assets/sulaiman.png"
       },
     "MasinoIntaray":  {
         "name": "Masino Intaray",
@@ -32,7 +32,7 @@
           "Performed in cultural and ritual gatherings, playing a key role in community events."
         ],
         "legacy": "Masino Intaray's contributions to music and storytelling helped preserve the oral traditions of the Pala’wan people. His legacy lives on as a key figure in the preservation of indigenous Filipino culture.",
-        "url": "/assets/intaray.jpg"
+        "url": "./assets/intaray.jpg"
       }
   }
   
