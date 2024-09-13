@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heritage-masters/static/css/main.7540f39f.css",
+    "main.js": "/heritage-masters/static/js/main.bb6169a5.js",
+    "static/media/alagad_ng_sining.jpg": "/heritage-masters/static/media/alagad_ng_sining.7d144863d1c340c870ae.jpg",
+    "static/media/kakaka.png": "/heritage-masters/static/media/kakaka.a2f8fd7b153639275111.png",
+    "index.html": "/heritage-masters/index.html",
+    "main.7540f39f.css.map": "/heritage-masters/static/css/main.7540f39f.css.map",
+    "main.bb6169a5.js.map": "/heritage-masters/static/js/main.bb6169a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7540f39f.css",
+    "static/js/main.bb6169a5.js"
+  ]
+}
