@@ -1,0 +1,38 @@
+{
+    "RamonMuzones":  {
+        "name": "Ramon Muzones",
+        "title": "National Artist for Literature (2018)",
+        "biography": "Ramon Muzones was a pioneering Hiligaynon writer and author of over 60 novels. He is known for transforming the landscape of regional literature by incorporating themes of history, mythology, romance, and political satire in his works. In 2018, he was awarded the title of National Artist for Literature.",
+        "artistic_contributions": [
+          "Authored 'Margosatubig: The Story of Salagunting', the first Hiligaynon epic novel.",
+          "Wrote 'Shri-Bishaya', which explores pre-colonial Philippine society and mythology.",
+          "Elevated Hiligaynon literature by addressing societal issues and exploring Filipino identity."
+        ],
+        "legacy": "Ramon Muzones is celebrated for his significant contributions to Philippine literature, particularly in promoting regional voices. His work ensured the survival and appreciation of the Hiligaynon language and literary tradition.",
+        "url": "/assets/muzones.jpg"
+    },
+    "SamaonSulaiman":  {
+        "name": "Samaon Sulaiman",
+        "title": "GAMABA Awardee for Traditional Music (1993)",
+        "biography": "Samaon Sulaiman, from Maganoy, Maguindanao, was a master of the kutyapi, a traditional two-stringed lute. He began playing the instrument at the age of 13 and became a recognized expert, preserving the music of the Maguindanaon people. He received the GAMABA award in 1993.",
+        "artistic_contributions": [
+          "Mastery of the kutyapi, an integral instrument in Maguindanaoan traditional music.",
+          "Taught and mentored younger musicians, passing down the knowledge and techniques of the kutyapi."
+        ],
+        "legacy": "Sulaiman's influence helped preserve the rich musical traditions of the Maguindanaon people. His dedication ensured that future generations continue to practice and appreciate the kutyapi and Maguindanaoan music.",
+        "url": "/assets/sulaiman.png"
+      },
+    "MasinoIntaray":  {
+        "name": "Masino Intaray",
+        "title": "GAMABA Awardee for Traditional Music, Epic Chanting, and Storytelling (1993)",
+        "biography": "Masino Intaray was a master of the basal (gong music), kulilal (lyric poetry), and bagit (epic chanting) traditions of the Pala’wan people. Hailing from southern Palawan, he was awarded the GAMABA in 1993 for his dedication to preserving and performing these oral and musical traditions.",
+        "artistic_contributions": [
+          "Master of traditional instruments such as the gongs and aruding (bamboo jaw harp).",
+          "Known for his epic storytelling and chanting, which recounted the history and beliefs of the Pala’wan people.",
+          "Performed in cultural and ritual gatherings, playing a key role in community events."
+        ],
+        "legacy": "Masino Intaray's contributions to music and storytelling helped preserve the oral traditions of the Pala’wan people. His legacy lives on as a key figure in the preservation of indigenous Filipino culture.",
+        "url": "/assets/intaray.jpg"
+      }
+  }
+  
