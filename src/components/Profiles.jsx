@@ -65,9 +65,10 @@ const Profiles = () => {
     }
 
     const handleMouseLeave = () => {
-        lastMousePosition.current = {
+        setMouseData({
             x: 0, y: 0, target: '', isBelow: false
-        }
+        })
+        
     }
 
     useEffect(() => {
@@ -79,7 +80,7 @@ const Profiles = () => {
     }, [])
 
     return (
-        <div className='profiles' id='artist-profiles'  onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
+        <div className='profiles' id='artist-profiles' onMouseMove={handleMouseMove} onMouseLeave={handleMouseLeave}>
             <div className="artist" 
                 style={mouseData.target !== '' ? 
                     { display: 'block', left: mouseData.x + 10, top: mouseData.isBelow ? mouseData.y - 300 : mouseData.y + 20 } : 

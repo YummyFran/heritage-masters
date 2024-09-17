@@ -1,4 +1,5 @@
 import React from 'react'
+import { HashLink } from 'react-router-hash-link'
 
 const Hero = () => {
   return (
@@ -7,7 +8,7 @@ const Hero = () => {
             <h1 className="title">Guardians of Heritage</h1>
             <h2 className="tagline">Honoring the GAMABA and National Artists of the Philippines</h2>
         </div>
-        <a href="/" className="cta">Explore Our Cultural Treasures</a>
+        <HashLink to="#artist-profiles" className="cta">Explore Our Cultural Treasures</HashLink>
     </div>
   )
 }
